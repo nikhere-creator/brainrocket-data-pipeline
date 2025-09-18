@@ -1,0 +1,216 @@
+2025-09-18 18:10:48,198 - etl.utils - INFO - Starting consumer, reading from stdin...
+2025-09-18 18:10:48,199 - etl.utils - INFO - Batch size: 1, Max batch time: 30s
+2025-09-18 18:10:49,783 - etl.utils - INFO - Processing batch of 1 events
+2025-09-18 18:10:53,401 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:10:53,403 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:10:53,404 - etl.utils - INFO - Processing batch of 2 events
+2025-09-18 18:10:53,456 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:10:53,456 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:10:53,456 - etl.utils - INFO - Processing batch of 2 events
+2025-09-18 18:10:53,492 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:10:53,492 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:10:53,492 - etl.utils - INFO - Consumer shutdown complete
+2025-09-18 18:11:09,226 - etl.utils - INFO - Starting consumer, reading from stdin...
+2025-09-18 18:11:09,226 - etl.utils - INFO - Batch size: 2, Max batch time: 5s
+2025-09-18 18:11:11,270 - etl.utils - INFO - Processing batch of 2 events
+2025-09-18 18:11:11,438 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,438 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,438 - etl.utils - INFO - Processing batch of 3 events
+2025-09-18 18:11:11,444 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,444 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,444 - etl.utils - INFO - Processing batch of 4 events
+2025-09-18 18:11:11,462 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,462 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,462 - etl.utils - INFO - Processing batch of 5 events
+2025-09-18 18:11:11,495 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,495 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,495 - etl.utils - INFO - Processing batch of 5 events
+2025-09-18 18:11:11,509 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,509 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:11:11,509 - etl.utils - INFO - Consumer shutdown complete
+2025-09-18 18:12:25,517 - etl.utils - INFO - Starting consumer, reading from stdin...
+2025-09-18 18:12:25,517 - etl.utils - INFO - Batch size: 1, Max batch time: 30s
+2025-09-18 18:12:26,628 - etl.utils - INFO - Processing batch of 1 events
+2025-09-18 18:12:26,898 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,898 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,898 - etl.utils - INFO - Processing batch of 2 events
+2025-09-18 18:12:26,904 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,904 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,904 - etl.utils - INFO - Processing batch of 3 events
+2025-09-18 18:12:26,909 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,909 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,909 - etl.utils - INFO - Processing batch of 3 events
+2025-09-18 18:12:26,916 - etl.utils - ERROR - Failed to connect to database: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,916 - etl.utils - ERROR - Failed to process batch: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  role "postgres" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 18:12:26,916 - etl.utils - INFO - Consumer shutdown complete
+2025-09-18 18:13:43,064 - etl.utils - INFO - Starting consumer, reading from stdin...
+2025-09-18 18:13:43,065 - etl.utils - INFO - Batch size: 4, Max batch time: 30s
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "event_id": "80524681-a7b4-4262-9ef8-dcebd3551228",
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "game_id": 6,
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "location_id": 3,
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "user_id": "user_72243218",
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "transaction_type": "subscription",
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "amount": 26.65,
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:42.688918",
+2025-09-18 18:13:46,725 - etl.utils - WARNING - Invalid JSON: "platform": "mobile",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "session_duration": 122,
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "items_purchased": 1,
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:42.688924",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "event_id": "24f9ef67-e06b-49fd-abd3-1bdbabec9de5",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "game_id": 2,
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "location_id": 12,
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "user_id": "user_66d3c809",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "transaction_type": "in-game",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "amount": 34.5,
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:43.190862",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "platform": "mobile",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "session_duration": 19,
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "items_purchased": 4,
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:43.190882",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "event_id": "449d3478-25ab-4d79-977f-9219afc1dc22",
+2025-09-18 18:13:46,726 - etl.utils - WARNING - Invalid JSON: "game_id": 3,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "location_id": 9,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "user_id": "user_42e212b7",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "transaction_type": "purchase",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "amount": 33.67,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:43.696039",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "platform": "desktop",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "session_duration": 58,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "items_purchased": 4,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:43.696059",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "event_id": "3dd759ab-0e74-46c3-a865-3ccb25e45371",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "game_id": 10,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "location_id": 5,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "user_id": "user_667ca8e3",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "transaction_type": "purchase",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "amount": 32.21,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:44.200771",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "platform": "console",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "session_duration": 179,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "items_purchased": 5,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:44.200793",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "event_id": "80ebdec9-83d5-4ae1-be32-cce291743ce1",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "game_id": 8,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "location_id": 7,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "user_id": "user_f983e51f",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "transaction_type": "subscription",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "amount": 21.77,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:44.705917",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "platform": "mobile",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "session_duration": null,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "items_purchased": 1,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:44.705934",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "event_id": "0e37388b-27f4-4aa6-bda7-2349a53320e4",
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "game_id": 8,
+2025-09-18 18:13:46,727 - etl.utils - WARNING - Invalid JSON: "location_id": 3,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "user_id": "user_b9dce87a",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "transaction_type": "purchase",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "amount": 74.75,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:45.210429",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "platform": "mobile",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "session_duration": 65,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "items_purchased": 4,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:45.210473",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "event_id": "a8d4afdd-db36-4d19-9b66-663cb566c185",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "game_id": 9,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "location_id": 8,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "user_id": "user_9b13c0ff",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "transaction_type": "purchase",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "amount": 61.61,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:45.714393",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "platform": "console",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "session_duration": 163,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "items_purchased": 3,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:45.714456",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: {
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "event_id": "fe986e41-99d8-4e72-939a-32420a9305e1",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "game_id": 10,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "location_id": 15,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "user_id": "user_1d08a2c2",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "transaction_type": "subscription",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "amount": 18.83,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "currency": "USD",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "transaction_date": "2025-09-18T18:13:46.219876",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "platform": "mobile",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "session_duration": null,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "items_purchased": 1,
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "event_timestamp": "2025-09-18T18:13:46.219892",
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: "source": "kafka_producer"
+2025-09-18 18:13:46,728 - etl.utils - WARNING - Invalid JSON: }
+2025-09-18 18:13:46,742 - etl.utils - INFO - Consumer shutdown complete

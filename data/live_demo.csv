@@ -1,0 +1,26 @@
+game_id,location_id,user_id,transaction_type,amount,currency,transaction_date,platform,session_duration,items_purchased
+8,15,user_10b34a72,in-game,38.53,USD,2025-08-30 07:51:27.543750,mobile,,3
+7,1,user_97f7ae15,in-game,10.32,USD,2025-09-16 13:25:55.399532,console,49.0,3
+5,14,user_fc5f0f03,in-game,31.23,USD,2025-08-21 05:59:05.143065,mobile,34.0,2
+5,12,user_3a8269b2,subscription,20.37,USD,2025-09-05 17:33:28.790401,desktop,50.0,1
+9,14,user_3b3d3be6,purchase,83.83,USD,2025-08-30 12:15:49.983655,desktop,,4
+8,14,user_97e8faa8,purchase,20.02,USD,2025-08-21 01:40:37.340903,mobile,,2
+6,3,user_ecc84e2e,in-game,9.72,USD,2025-08-26 06:24:10.603480,mobile,,3
+3,5,user_23106703,in-game,44.03,USD,2025-09-16 03:54:14.946547,mobile,129.0,3
+7,2,user_0a6a1c8c,in-game,8.76,USD,2025-09-06 16:28:46.534903,console,6.0,2
+9,13,user_3cb60c4e,purchase,58.46,USD,2025-09-04 19:21:24.984309,console,37.0,4
+10,3,user_104facdb,purchase,57.15,USD,2025-08-22 09:05:39.480839,mobile,173.0,5
+1,10,user_21082ef7,in-game,46.02,USD,2025-08-22 01:37:04.835372,desktop,104.0,1
+1,6,user_31a7a594,subscription,19.66,USD,2025-09-04 16:41:56.470293,console,77.0,1
+9,11,user_96981db4,purchase,36.88,USD,2025-08-21 19:10:37.588148,mobile,,2
+5,7,user_e11a64a3,in-game,48.79,USD,2025-09-06 02:48:48.138585,web,119.0,3
+8,10,user_58469508,purchase,82.61,USD,2025-08-22 18:20:41.299952,console,105.0,2
+7,14,user_91634c62,in-game,39.56,USD,2025-09-13 11:59:41.220044,console,126.0,3
+3,3,user_5a646db4,purchase,28.75,USD,2025-09-18 00:03:19.337429,web,79.0,3
+5,10,user_cb519a55,purchase,79.46,USD,2025-08-21 05:17:26.855845,mobile,100.0,1
+1,15,user_8bd697be,in-game,15.4,USD,2025-08-31 00:40:01.990473,console,,5
+4,14,user_ac8b58a5,in-game,23.17,USD,2025-08-27 00:19:59.037693,mobile,113.0,1
+10,8,user_a3328b1d,purchase,96.48,USD,2025-09-02 02:55:31.997110,web,100.0,3
+4,6,user_5a8d0da9,in-game,37.72,USD,2025-08-27 02:58:56.057579,mobile,115.0,5
+6,1,user_828244d2,in-game,18.09,USD,2025-09-17 02:50:10.284135,console,126.0,4
+5,3,user_a0813c14,subscription,25.23,USD,2025-09-11 17:11:58.071299,desktop,,1

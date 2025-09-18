@@ -1,0 +1,11 @@
+game_id,location_id,user_id,transaction_type,amount,currency,transaction_date,platform,session_duration,items_purchased
+7,7,user_a62668d5,subscription,16.37,USD,2025-09-16 01:11:09.360788,web,169.0,1
+7,5,user_acbc1bc0,in-game,9.91,USD,2025-08-31 21:14:17.642656,console,106.0,2
+8,2,user_0aeb8bfc,purchase,55.34,USD,2025-09-06 11:28:29.082458,mobile,,5
+6,14,user_588997d2,subscription,10.46,USD,2025-09-09 10:40:51.996912,desktop,,1
+4,5,user_8c56bb6a,purchase,84.36,USD,2025-08-30 11:42:23.889242,web,75.0,3
+9,12,user_4463321b,in-game,23.95,USD,2025-09-13 12:04:11.431870,console,21.0,2
+8,14,user_d6a29bb6,in-game,1.67,USD,2025-09-16 14:20:43.359904,desktop,83.0,3
+9,7,user_a0e4a1fa,purchase,31.75,USD,2025-09-01 15:06:20.981686,desktop,175.0,3
+6,12,user_cedec68d,subscription,11.22,USD,2025-08-30 23:26:07.378137,mobile,45.0,1
+6,13,user_a55dd895,in-game,1.49,USD,2025-08-23 23:48:14.371660,desktop,75.0,2

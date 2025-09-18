@@ -1,0 +1,27 @@
+# Core Data Engineering Dependencies
+pandas>=1.5.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Data Generation & Utilities
+faker>=18.0.0
+python-dotenv>=1.0.0
+
+# Airflow (for orchestration)
+apache-airflow>=2.5.0
+
+# Optional: For enhanced data processing
+numpy>=1.24.0
+python-dateutil>=2.8.0
+
+# Development & Testing
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+
+# Note: Airflow has many dependencies that will be installed automatically
+# For a production setup, you might want to pin specific versions
+
+# For streaming simulation (Kafka would be used in production)
+# kafka-python>=2.0.0

@@ -1,0 +1,6 @@
+game_id,location_id,user_id,transaction_type,amount,currency,transaction_date,platform,session_duration,items_purchased
+5,15,user_8c3553d8,in-game,39.12,USD,2025-09-18 15:32:47.395970,console,82,2
+5,13,user_683b4162,in-game,32.1,USD,2025-09-03 18:16:33.886405,mobile,114,1
+2,8,user_a69644f2,purchase,40.87,USD,2025-09-15 15:34:17.096241,web,70,1
+7,3,user_e3d0b290,in-game,39.83,USD,2025-08-30 13:13:28.942125,web,67,4
+6,4,user_44a65bad,purchase,69.63,USD,2025-08-25 16:27:23.792497,desktop,141,1
